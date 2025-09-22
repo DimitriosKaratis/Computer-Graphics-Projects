@@ -3,7 +3,7 @@
 This repository contains the implementation of three projects in **Computer Graphics**, focusing on rasterization, transformations, projections, and shading.  
 The work was developed as part of the *Computer Graphics course project* at the **Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki**.
 
----
+--- 
 
 ## 📌 Project 1 – Triangle Rasterization & Shading
 
